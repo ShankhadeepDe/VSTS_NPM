@@ -1,6 +1,6 @@
 var prompt = require("prompt");
 var colors = require("colors/safe");
-var request = require('request');
+//var request = require('request');
 var https = require('https');
 var querystring = require('querystring');
 var qs = require('qs');

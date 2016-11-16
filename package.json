@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "colors": "^1.1.2",
+    "inquirer": "^1.2.3",
+    "node-rest-client": "^2.0.1",
     "prompt": "^1.0.0",
     "qs": "^6.3.0"
   }

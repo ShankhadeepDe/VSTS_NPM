@@ -5,7 +5,7 @@ var client = new Client();
 // set content-type header and data as json in args parameter 
 var args = {
     data: {
-                    "name": "VSTS_NodeTest5",
+                    "name": "VSTS_NodeTest",
                     "description": "NPM for VSTS access",
                     "capabilities": {
                         "versioncontrol": {
